@@ -1,0 +1,33 @@
+Start testing: May 13 20:21 Центральноевропейский (лето)
+----------------------------------------------------------
+1/1 Testing: AlgoTest
+1/1 Test: AlgoTest
+Command: "C:/Visual Studio/PiAA_proj2/build/tests/test_main.exe"
+Directory: C:/Visual Studio/PiAA_proj2/build/tests
+"AlgoTest" start time: May 13 20:21 Центральноевропейский (лето)
+Output:
+----------------------------------------------------------
+Running main() from C:\Visual Studio\PiAA_proj2\lib\googletest\googletest\src\gtest_main.cc
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from AlgoTest
+[ RUN      ] AlgoTest.DijkstraSimple
+[       OK ] AlgoTest.DijkstraSimple (0 ms)
+[ RUN      ] AlgoTest.BellmanFordNegativeEdge
+[       OK ] AlgoTest.BellmanFordNegativeEdge (0 ms)
+[ RUN      ] AlgoTest.DFSSimple
+[       OK ] AlgoTest.DFSSimple (0 ms)
+[----------] 3 tests from AlgoTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"AlgoTest" end time: May 13 20:21 Центральноевропейский (лето)
+"AlgoTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 13 20:21 Центральноевропейский (лето)

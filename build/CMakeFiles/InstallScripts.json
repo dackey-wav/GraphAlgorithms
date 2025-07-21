@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Visual Studio/PiAA_proj2/build/cmake_install.cmake",
+		"C:/Visual Studio/PiAA_proj2/build/lib/googletest/cmake_install.cmake",
+		"C:/Visual Studio/PiAA_proj2/build/lib/googletest/googlemock/cmake_install.cmake",
+		"C:/Visual Studio/PiAA_proj2/build/lib/googletest/googletest/cmake_install.cmake",
+		"C:/Visual Studio/PiAA_proj2/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
