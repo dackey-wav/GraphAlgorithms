@@ -38,7 +38,7 @@ This project implements and analyzes the performance of three fundamental graph 
 ## Project Structure
 
 * `src/`: Contains the source code for the graph algorithms and the testing framework.
-* `results/`: (Likely) Where the performance measurement data or generated charts/graphs are stored.
-* `Sprawozdanie.md` (or similar): A report detailing the methodology, results, and analysis of the performance tests. This report will be translated into English soon.
+* `results/`: Where the performance measurement data or generated charts/graphs are stored.
+* `reports/`: Reports in polish and english detailing the methodology, results, and analysis of the performance tests.
 
 ---
